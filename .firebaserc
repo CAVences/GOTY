@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-7f631": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-7f631"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-7f631"
+  }
+}
